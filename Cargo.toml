@@ -1,0 +1,3 @@
+[workspace]
+members = ["programs/solana-sanctum-lst-aggregator"]
+resolver = "2"
